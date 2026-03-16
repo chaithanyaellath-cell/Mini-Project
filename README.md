@@ -7,19 +7,23 @@ Built an interactive Power BI dashboard to analyze bank-wise ATM, POS, and card 
 2025 shows lower values, possibly because the dataset may contain partial year data.
 State Bank of India(SBI)leads in ATM infrastructure, maintaining the largest ATM network among all banks in the dataset.
 Axis Bank dominates POS machine deployment, indicating strong merchant payment acceptance across retail locations.
-Performed data cleaning and preparation in Excel to ensure accurate analysis and reporting.
-Created DAX measures to calculate key metrics such as total ATMs, total cards issued, and transaction volumes.
-Designed dynamic visualizations including KPI cards, clustered column charts, funnel charts, and matrix tables.
+
+ Performed data cleaning and preparation in Excel to ensure accurate analysis and reporting.
+ Created DAX measures to calculate key metrics such as total ATMs, total cards issued, and transaction volumes.
+ Designed dynamic visualizations including KPI cards, clustered column charts, funnel charts, and matrix tables.
+
 Implemented interactive slicers to allow users to filter data by bank category and bank name.
 Analyzed digital payment infrastructure including ATMs, POS machines, micro ATMs, and QR payment systems.
 Compared debit card vs credit card transaction patterns to understand customer payment behavior.
 Delivered actionable insights on banking infrastructure distribution and digital payment adoption.
 Demonstrated skills in data visualization, business analysis, and dashboard storytelling using Power BI.
+
 Online card transactions are growing rapidly, indicating increased usage of digital commerce and online services.
 Digital payment infrastructure such as POS machines and QR codes is expanding, supporting the growth of cashless transactions.
 Private sector banks show strong growth in POS and digital payment infrastructure, driving innovation and competition in digital banking services.
 HDFC Bank records the highest digital payment transaction value, driven by strong credit card, debit card, and online transaction activity.
 Private banks such as HDFC Bank, ICICI Bank, and Axis Bank contribute a significant share of total digital payment transactions compared to many public sector banks.
+
 POS transactions play a major role in digital payments
 A large portion of digital payment activity comes from POS transactions, showing strong adoption of card payments at retail and merchant locations.
 Online card transactions are rapidly increasing
