@@ -1,6 +1,7 @@
-****BANKWISE ATM POS CARD STATISTICS 2022 ONWARDS ******
+**BANKWISE ATM POS CARD STATISTICS 2022 ONWARDS **
 
-This Dataset offers comprehensive statistics on banking infrastructure and card based transactions in India from 2022 onwards.It includes bank-level data on ATMs,POS terminals,QR code adoption,and transaction volumes and values for both credit cards and debit cards.Sourced from the Reserve Bank of India. 
+The dataset has been obtained from the official India Data Portal, ensuring reliability and accuracy for analytical and reporting purposes.
+This Dataset ofFers comprehensive statistics on banking infrastructure and card based transactions in India from 2022 onwards.It includes bank-level data on ATMs,POS terminals,QR code adoption,and transaction volumes and values for both credit cards and debit cards.Sourced from the Reserve Bank of India. 
 
 Built an interactive Power BI dashboard to analyze bank-wise ATM, POS, and card transaction statistics from 2022 onwards.
 2023 has the highest ATM withdrawals in the dataset.
